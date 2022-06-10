@@ -11,3 +11,17 @@
 ### **Briefly About Myself:**  
 I am a motivated junior Frontend developer  
 **********************  
+### **Skills and Proficiency:**  
+HTML5, CSS3  
+SASS/LESS    
+JavaScript    
+Canvas    
+Git, GitHub  
+VS Code  
+Adobe Photoshop, Illustrator, Figma  
+**********************  
+### **Languages:**  
++ English - Pre-Intermediate/Intermediate   
++ Ukrainian - Native  
++ Russian - Native  
+ 
