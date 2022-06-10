@@ -1,4 +1,4 @@
-![Avatar](./avatar.jpg "Avatar")
+![Avatar](./avatar.jpg "Avatar")  
 # Misha Bozhevskiy  
 ## Junior Frontend Developer
 **********************  
